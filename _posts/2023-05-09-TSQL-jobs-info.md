@@ -4,7 +4,7 @@ title:  TSQL Jobs info
 categories: [Code, SQL]
 ---
 
-### This is a code snippet in TSQL which returns information on jobs scheduled on a particular server, ordered by their last run date
+This is a code snippet in TSQL which returns information on jobs scheduled on a particular server, ordered by their last run date. It can be used to monitor what is happening on the server.
 
 ```
 SELECT
